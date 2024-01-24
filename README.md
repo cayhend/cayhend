@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cayhend
+- 👀 I’m interested in cybersecurity consulting!
+- 🌱 I’m currently learning through Texas Tech University and Harvards CS50 course!
+- 💞️ I’m looking to collaborate on projects or any ideas that anyone has!
+- ⚡ Fun fact: I love to work out!
